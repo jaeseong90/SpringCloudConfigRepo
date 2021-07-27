@@ -1,0 +1,4 @@
+token:
+  expirationTime: 86400000
+  secret: userId
+  
