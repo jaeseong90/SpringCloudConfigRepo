@@ -3,4 +3,4 @@ token:
   secret: userId
   
 configtest:
-  test: hello config service
+  test: hello config service111111
