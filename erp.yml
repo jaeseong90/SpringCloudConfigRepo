@@ -2,3 +2,5 @@ token:
   expirationTime: 86400000
   secret: userId
   
+configtest:
+  test: hello config service
